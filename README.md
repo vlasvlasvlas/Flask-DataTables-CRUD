@@ -2,10 +2,15 @@
 sample about CRUD using Ajax, jQuery, DataTables and Flask
 
 - back:
+
 from flask import Flask, render_template, request, jsonify
+
 import requests
+
 import sqlite3
+
 import pandas as pd
+
 import  json
 
 - front:
